@@ -1,0 +1,6 @@
+node_modules/
+.env
+src/database/ecowell.db
+src/uploads/
+*.log
+
